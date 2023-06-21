@@ -1,4 +1,4 @@
-# MERN E-COMMERce WEBSITE
+# MERN E-COMMERCE WEBSITE
 
 Hi! My name is **Jyoti**, I have created this project to learn MERN Stack.
 
